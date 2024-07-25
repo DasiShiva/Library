@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 8px;
+  margin: 4px;
+  border: 1px solid #ddd;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+div {
+  margin: 10px;
+}

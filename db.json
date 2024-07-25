@@ -1,0 +1,49 @@
+{
+  "songs": [
+    {
+      "image": "https://moviegalleri.net/wp-content/gallery/1-nenokkadine-audio-wallpapers-hd/mahesh_babu_1_nenokkadine_audio_wallpapers_hd_3271d4f.jpg",
+      "name": "Who are You",
+      "singer": "Devi Sri Prasad",
+      "musicDirector": " RockStar DSP",
+      "releaseDate": "2014-07-05",
+      "album": "One Nenokkadine",
+      "id": "1"
+    },
+    {
+      "image": "https://cdn.123telugu.com/photos/wp-content/uploads/2019/07/ismart-1.jpg",
+      "name": "Ismart Title Song",
+      "singer": "Anurag Kulkarni",
+      "musicDirector": "Manisharma",
+      "releaseDate": "2019-07-02",
+      "album": "Ismart Shankar",
+      "id": "55ff"
+    },
+    {
+      "id": "7b5c",
+      "image": "https://mrwallpaper.com/images/high/prabhas-hd-baahubali-2-the-conclusion-5g1ki7t13fcj0wqt.jpg",
+      "name": "Saahore Baahubali",
+      "singer": "283",
+      "musicDirector": "MM.Keeravani",
+      "releaseDate": "2017-07-12",
+      "album": "Bahubali-2"
+    },
+    {
+      "id": "4562",
+      "image": "https://cdn.tollywood.net/wp-content/uploads/2021/12/Shyam-Singha-Roy-OTT-plan.jpg",
+      "name": "Sirivennala",
+      "singer": "Chaitra",
+      "musicDirector": "Micky-j Mayor",
+      "releaseDate": "2021-07-04",
+      "album": "Shyam Singha Roy"
+    },
+    {
+      "id": "9cd5",
+      "image": "https://sund-images.sunnxt.com/72211/640x360_TholiPrema_72211_0cf6ea54-51d5-42f6-9185-3a91914bf996.jpg",
+      "name": "Ninnila",
+      "singer": "Armaan Malik",
+      "musicDirector": "SS Thaman",
+      "releaseDate": "2018-07-02",
+      "album": "Tholi Prema"
+    }
+  ]
+}
